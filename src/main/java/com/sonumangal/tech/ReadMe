@@ -1,0 +1,8 @@
+API:
+    postman request 'http://localhost:8888/application/default'
+
+
+Steps:
+    - add dependency in pom.xml
+    - add git config in yml file
+    - add @EnableConfigServer
